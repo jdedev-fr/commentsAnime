@@ -10,6 +10,7 @@ section {
     position: relative;
     border: solid 1px lightgrey;
     border-radius: 5px;
+    background-color: rgb(163, 96, 70);
     box-shadow: rgba(0,0,0,0.5) 5px 5px 5px;
     overflow: hidden;
 }
@@ -45,6 +46,8 @@ article {
     transition: linear 2s;
     width: 400px;
     display:grid;
+    border-radius: 5px;
+    background-color: white;
     grid-template-columns: 100px 300px;
     grid-template-rows: 50px 150px;
     grid-template-areas: "a b"

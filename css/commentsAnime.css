@@ -56,6 +56,9 @@ article {
 article>h3 {
     grid-area: b;
 }
+article>p {
+    text-align: justify;
+}
 article>img {
     grid-area: a;
     width: 100%;

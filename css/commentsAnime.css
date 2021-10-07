@@ -58,6 +58,7 @@ article>h3 {
 }
 article>p {
     text-align: justify;
+    padding: 10px;
 }
 article>img {
     grid-area: a;
